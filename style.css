@@ -1,0 +1,33 @@
+#box {
+    background-image: url(../Profile-Generator/asset/background.png);
+    height: 100%;
+}
+.card {
+    background: aquamarine;
+    position: relative;
+}
+
+#public {
+    width: 300px;
+    height: 50px;
+    padding-left: 50px;
+    margin-left: 250px;
+    margin-right: 50px;
+    float: left;
+}
+#followers {
+    width: 300px;
+    height: 50px;
+    padding-left: 50px;
+    margin-left: 50px;
+    /* float: left; */;
+}
+#star {
+    width: 300px;
+    height: 50px;
+}
+#following {
+    width: 300px;
+    height: 50px;
+    float: left;
+}

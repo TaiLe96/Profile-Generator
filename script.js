@@ -1,0 +1,1 @@
+let queryURL = 'https://api.github.com/users'
